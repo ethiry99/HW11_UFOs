@@ -18,4 +18,14 @@ This allows for quicker research into the data being shared.
 
 ## Summary
 * ### Drawback of New Design
-One thing about the design that could be improved  
+  * One drawback about the design is that if the date is typed mm/dd/yy instead of mm/dd/yyyy no results will be returned.
+
+![](https://github.com/ethiry99/HW11_UFOs/blob/main/Resources/datefail.png)
+
+* ### Recommendations For Further Development
+  * In order to prevent a failure due to incorrect date maybe a pop up calendar could be used to limit the date entry to a format that could handled by the javascript program.
+
+  * Another feature that could be useful would be to have the ability to sort the data in the table.  That way it would be easier to scan by states that a Ufologist may be interested in.
+
+  * The ability to export findings would be another example of a useful feature for possible further development. 
+
